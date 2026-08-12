@@ -2,7 +2,7 @@
   {
     "id": 1,
     "task": "Jignesh Bhai - Rs 200820",
-    "priority": "High",
+    "priority": "Medium",
     "status": "To Do"
   },
   {
@@ -14,7 +14,7 @@
   {
     "id": 3,
     "task": "Aary bhoomi - Devesh to remind Rakesh",
-    "priority": "High",
+    "priority": "Medium",
     "status": "To Do"
   },
   {
@@ -44,12 +44,24 @@
   {
     "id": 8,
     "task": "Rajesh One - Pick up sample slab",
-    "priority": "High",
+    "priority": "Medium",
     "status": "To Do"
   },
   {
     "id": 9,
     "task": "Ghanshyam Bhai - P-white and stand, check with vikas if updated",
+    "priority": "Medium",
+    "status": "To Do"
+  },
+  {
+    "id": 10,
+    "task": "Plan for Hetraj Sir Delivery",
+    "priority": "High",
+    "status": "To Do"
+  },
+  {
+    "id": 11,
+    "task": "Call Carpet person for Delivery",
     "priority": "High",
     "status": "To Do"
   }
