@@ -1,5 +1,56 @@
 [
-    { "id": 1, "task": "Review pull requests", "priority": "High", "status": "To Do" },
-    { "id": 2, "task": "Write weekly status update", "priority": "Medium", "status": "In Progress" },
-    { "id": 3, "task": "Clean up inbox", "priority": "Low", "status": "Done" }
+  {
+    "id": 1,
+    "task": "Jignesh Bhai - Rs 200820",
+    "priority": "High",
+    "status": "To Do"
+  },
+  {
+    "id": 2,
+    "task": "Parik State",
+    "priority": "Medium",
+    "status": "To Do"
+  },
+  {
+    "id": 3,
+    "task": "Aary bhoomi - Devesh to remind Rakesh",
+    "priority": "High",
+    "status": "To Do"
+  },
+  {
+    "id": 4,
+    "task": "Curtain 7 x 4 -18 mm or more",
+    "priority": "Low",
+    "status": "To Do"
+  },
+  {
+    "id": 5,
+    "task": "Gadhi Payment 10000 by me using Gpay on OM request",
+    "priority": "High",
+    "status": "To Do"
+  },
+  {
+    "id": 6,
+    "task": "Mandana - Om is working on procurement",
+    "priority": "High",
+    "status": "To Do"
+  },
+  {
+    "id": 7,
+    "task": "Tata BOQ - Check eariler rate and revert",
+    "priority": "High",
+    "status": "To Do"
+  },
+  {
+    "id": 8,
+    "task": "Rajesh One - Pick up sample slab",
+    "priority": "High",
+    "status": "To Do"
+  },
+  {
+    "id": 9,
+    "task": "Ghanshyam Bhai - P-white and stand, check with vikas if updated",
+    "priority": "High",
+    "status": "To Do"
+  }
 ]
