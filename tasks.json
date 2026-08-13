@@ -74,7 +74,7 @@
   {
     "id": 13,
     "task": "Pick Rosso Lavente - Tanish Sir - Anil will take care",
-    "priority": "High",
+    "priority": "Low",
     "status": "To Do"
   },
   {
@@ -98,6 +98,12 @@
   {
     "id": 17,
     "task": "Tata Agra - Kota Urgent 2 trucks, Munna material has an issue (Reminded Deepak)",
+    "priority": "High",
+    "status": "To Do"
+  },
+  {
+    "id": 18,
+    "task": "Satvario Nivit Bhai",
     "priority": "High",
     "status": "To Do"
   }
