@@ -106,5 +106,17 @@
     "task": "Satvario Nivit Bhai",
     "priority": "Medium",
     "status": "In Progress"
+  },
+  {
+    "id": 19,
+    "task": "MAS HQ - Size issue M-Ivory - Discuss with DJ and DR",
+    "priority": "High",
+    "status": "To Do"
+  },
+  {
+    "id": 20,
+    "task": "Amish Bhai - Indian Mocka Leather - Issue with rust - Discuss with DJ and DR",
+    "priority": "High",
+    "status": "To Do"
   }
 ]
