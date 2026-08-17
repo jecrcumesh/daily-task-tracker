@@ -148,5 +148,11 @@
     "task": "SKPL - Classic Ivory - Need to discuss with DJ if Sample is approved or not. DJ will talk Again 18 Aug",
     "priority": "High",
     "status": "To Do"
+  },
+  {
+    "id": 26,
+    "task": "Sample Ready by 18 Aug (Sample Group) - DR",
+    "priority": "Medium",
+    "status": "To Do"
   }
 ]
