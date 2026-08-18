@@ -38,7 +38,7 @@
   {
     "id": 7,
     "task": "Tata BOQ - Check eariler rate and revert",
-    "priority": "High",
+    "priority": "Low",
     "status": "Done"
   },
   {
@@ -109,7 +109,7 @@
   },
   {
     "id": 19,
-    "task": "MAS HQ - Size issue M-Ivory - Discuss with DJ and DR",
+    "task": "MAS HQ - Size issue M-Ivory - Discuss with DJ and DR, 3 feet or 30 inch",
     "priority": "High",
     "status": "To Do"
   },
