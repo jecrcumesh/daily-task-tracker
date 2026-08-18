@@ -154,5 +154,11 @@
     "task": "Sample Ready by 18 Aug (Sample Group) - DR",
     "priority": "Medium",
     "status": "To Do"
+  },
+  {
+    "id": 27,
+    "task": "CNC quotation from Harshil, send to PSP for 4 pcs grove or fruit maacro",
+    "priority": "Medium",
+    "status": "To Do"
   }
 ]
