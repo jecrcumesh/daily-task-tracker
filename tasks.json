@@ -33,7 +33,7 @@
     "id": 6,
     "task": "Mandana - Om is working on procurement - Max by Sunday, the truck will come , Truck Will come Tomorrow",
     "priority": "High",
-    "status": "To Do"
+    "status": "In Progress"
   },
   {
     "id": 7,
@@ -104,7 +104,7 @@
   {
     "id": 18,
     "task": "Satvario Nivit Bhai",
-    "priority": "Medium",
+    "priority": "Low",
     "status": "Done"
   },
   {
