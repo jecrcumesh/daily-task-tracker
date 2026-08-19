@@ -182,13 +182,13 @@
   {
     "id": 31,
     "task": "TATA Lothal - Paradiso - Check with RR if we have Order or not",
-    "priority": "Medium",
+    "priority": "High",
     "status": "To Do"
   },
   {
     "id": 32,
     "task": "Tata Lothal - Send Email for Work Order",
-    "priority": "Medium",
+    "priority": "High",
     "status": "To Do"
   }
 ]
