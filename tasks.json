@@ -178,5 +178,11 @@
     "task": "Tata Lothal - Tick wood , yellow Kota - 2200 Sqft",
     "priority": "High",
     "status": "To Do"
+  },
+  {
+    "id": 31,
+    "task": "TATA Lothal - Paradiso - Check with RR if we have Order or not",
+    "priority": "Medium",
+    "status": "To Do"
   }
 ]
