@@ -172,5 +172,11 @@
     "task": "OM will folloup for PSP - New PO for Petra Armani, Lather 3 pc , Polish 1 pc .",
     "priority": "Medium",
     "status": "To Do"
+  },
+  {
+    "id": 30,
+    "task": "Tata Lothal - Tick wood , yellow Kota - 2200 Sqft",
+    "priority": "High",
+    "status": "To Do"
   }
 ]
