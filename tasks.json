@@ -9,12 +9,6 @@
     "id": 2,
     "task": "Parik State",
     "priority": "Medium",
-    "status": "To Do"
-  },
-  {
-    "id": 3,
-    "task": "Aary bhoomi - Devesh to remind Rakesh",
-    "priority": "Low",
     "status": "Done"
   },
   {
@@ -24,22 +18,10 @@
     "status": "Done"
   },
   {
-    "id": 5,
-    "task": "Gadhi Payment 10000 by me using Gpay on OM request",
-    "priority": "High",
-    "status": "Done"
-  },
-  {
     "id": 6,
     "task": "Mandana - As per Om , Truck will come 22 Aug Night",
     "priority": "High",
     "status": "In Progress"
-  },
-  {
-    "id": 7,
-    "task": "Tata BOQ - Check eariler rate and revert",
-    "priority": "Low",
-    "status": "Done"
   },
   {
     "id": 8,
@@ -51,24 +33,6 @@
     "id": 9,
     "task": "Ghanshyam Bhai - P-white and stand, check with vikas if updated",
     "priority": "Medium",
-    "status": "Done"
-  },
-  {
-    "id": 10,
-    "task": "Plan for Hetraj Sir Delivery",
-    "priority": "Low",
-    "status": "Done"
-  },
-  {
-    "id": 11,
-    "task": "Call Carpet person for Delivery - Called and confirmed 13 Aug",
-    "priority": "Medium",
-    "status": "Done"
-  },
-  {
-    "id": 12,
-    "task": "Icon Brown Ice Canvas 2-4 slab SKPL -Om to order mahadev",
-    "priority": "Low",
     "status": "Done"
   },
   {
@@ -84,26 +48,8 @@
     "status": "Done"
   },
   {
-    "id": 15,
-    "task": "Priority Gandhi nagr Bhavesh Bhai Or jagrati mam and Berain Sir - Confirm with DJ",
-    "priority": "Low",
-    "status": "Done"
-  },
-  {
-    "id": 16,
-    "task": "Amendment SS Clamp and Pillar Tata and Include Harish Bakshi as well",
-    "priority": "Low",
-    "status": "Done"
-  },
-  {
     "id": 17,
     "task": "Tata Agra - Kota Urgent 2 trucks, Munna material has an issue (Reminded Deepak)",
-    "priority": "Low",
-    "status": "Done"
-  },
-  {
-    "id": 18,
-    "task": "Satvario Nivit Bhai",
     "priority": "Low",
     "status": "Done"
   },
@@ -145,7 +91,7 @@
   },
   {
     "id": 25,
-    "task": "SKPL - Classic Ivory - Need to discuss with DJ if Sample is approved or not. DJ will talk Again 18 Aug",
+    "task": "SKPL - Classic Ivory -  Sample Approved , It will take 2-3 days . DR order to Ramesh uncle",
     "priority": "High",
     "status": "To Do"
   },
@@ -174,12 +120,6 @@
     "status": "To Do"
   },
   {
-    "id": 30,
-    "task": "Tata Lothal - Tick wood , yellow Kota - 2200 Sqft - Truck Delivered on 22 Aug",
-    "priority": "High",
-    "status": "To Do"
-  },
-  {
     "id": 31,
     "task": "TATA Lothal - Paradiso - Check with RR if we have Order or not",
     "priority": "High",
@@ -192,16 +132,10 @@
     "status": "Done"
   },
   {
-    "id": 33,
-    "task": "Tata Lothal - EPDM flooring Final Rates to discuss with DR",
-    "priority": "High",
-    "status": "In Progress"
-  },
-  {
     "id": 34,
-    "task": "Tata Lothal - Flooring Works in Lothal Town Ghat Area",
+    "task": "Tata Lothal - Flooring Works in Lothal Town Ghat Area - Quotation Sent on 31 Aug",
     "priority": "High",
-    "status": "To Do"
+    "status": "Done"
   },
   {
     "id": 35,
@@ -216,28 +150,10 @@
     "status": "To Do"
   },
   {
-    "id": 37,
-    "task": "Rosso Lavante - 4 or 5 inch Ball with hole - DR",
-    "priority": "Medium",
-    "status": "Done"
-  },
-  {
     "id": 38,
     "task": "GST Maxel - Rakesh , Jeshalmer yellow Granite - Super Urgent",
     "priority": "High",
-    "status": "To Do"
-  },
-  {
-    "id": 39,
-    "task": "YMCA - Steel , 8 mm , 3 tonne",
-    "priority": "Medium",
-    "status": "To Do"
-  },
-  {
-    "id": 40,
-    "task": "YMCA - 3 tonne 8 mm steel",
-    "priority": "High",
-    "status": "To Do"
+    "status": "Done"
   },
   {
     "id": 41,
@@ -247,8 +163,8 @@
   },
   {
     "id": 42,
-    "task": "TATA - Hydrabad - Rafferty Raheja",
+    "task": "TATA - Hydrabad - Rafferty Raheja - Required document sent",
     "priority": "Medium",
-    "status": "To Do"
+    "status": "Done"
   }
 ]
