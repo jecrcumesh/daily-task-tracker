@@ -21,13 +21,13 @@
     "id": 6,
     "task": "Mandana - As per Om , Truck will come 22 Aug Night",
     "priority": "High",
-    "status": "In Progress"
+    "status": "Done"
   },
   {
     "id": 8,
     "task": "Rajesh One - Pick up sample slab",
     "priority": "Medium",
-    "status": "To Do"
+    "status": "Done"
   },
   {
     "id": 9,
@@ -63,13 +63,13 @@
     "id": 20,
     "task": "Amish Bhai - Indian Mocka Leather - Issue with rust - Discuss with DJ and DR. Replace with new Material . As per Om , Truck will come 22 Aug Night",
     "priority": "High",
-    "status": "To Do"
+    "status": "Done"
   },
   {
     "id": 21,
     "task": "Sree Balaji Granite 1.5 L",
     "priority": "High",
-    "status": "To Do"
+    "status": "Done"
   },
   {
     "id": 22,
@@ -85,7 +85,7 @@
   },
   {
     "id": 24,
-    "task": "Rakesh Sir - Sunwood , 63 pieces have a size issue",
+    "task": "Rakesh Sir - Sunwood , 63 pieces have a size issue which we take back , 83 pieces we need to give which is plan to deliver in 2-3 days .",
     "priority": "High",
     "status": "To Do"
   },
@@ -93,13 +93,13 @@
     "id": 25,
     "task": "SKPL - Classic Ivory -  Sample Approved , It will take 2-3 days . DR order to Ramesh uncle",
     "priority": "High",
-    "status": "To Do"
+    "status": "Done"
   },
   {
     "id": 26,
     "task": "Sample Ready by 18 Aug (Sample Group) - DR",
     "priority": "Medium",
-    "status": "To Do"
+    "status": "Done"
   },
   {
     "id": 27,
@@ -171,18 +171,18 @@
     "id": 43,
     "task": "DJ - Rakesh Sir - Riveria - Grove Issue and Table Issue",
     "priority": "High",
-    "status": "To Do"
+    "status": "Done"
   },
   {
     "id": 44,
     "task": "Billing is on Stonedge Or Pvt Limited",
     "priority": "High",
-    "status": "To Do"
+    "status": "Done"
   },
   {
     "id": 45,
     "task": "Rent agreement of ymca and Stonedge 3",
     "priority": "High",
-    "status": "To Do"
+    "status": "Done"
   }
 ]
