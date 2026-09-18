@@ -190,5 +190,17 @@
     "task": "Riveria - Quotation Sent-  Un-Cut Slab Silk Brown Granite 20mm Thk Polished  – 17,000 Sqft - Rs 140 Un Cut-Slab GD Brown Granite 20mm  Thk Polished – 8720 Sqft -  Rs 85 -",
     "priority": "Medium",
     "status": "Done"
+  },
+  {
+    "id": 47,
+    "task": "Varun Sir - Blue Marfo, Camoufalz - Check with DJ for payment terms",
+    "priority": "Medium",
+    "status": "To Do"
+  },
+  {
+    "id": 48,
+    "task": "Rushil Sir - Inidan Mocca , Payment condition , 2.15L previous pending. Check with DJ",
+    "priority": "Medium",
+    "status": "To Do"
   }
 ]
